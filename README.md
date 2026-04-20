@@ -1,16 +1,16 @@
-# Coffee Shop Sales Dashboard (Excel)
+# Coffee Shop Sales Analysis (Excel)
+
+![Dashboard Preview](Coffee Shop Sales Analysis.png)
 
 ## 📌 Project Overview
 This project presents an interactive Excel dashboard built on coffee shop sales data. It focuses on analyzing key metrics and uncovering trends to support better business understanding.
 
-## 📊 Dashboard Features
-- Total Sales, Total Footfall, Avg Bill/Person, Avg Orders/Person
-- Sales trends based on hours
-- Category-wise sales distribution
-- Order size distribution
-- Store location performance
-- Top 5 products based on sales
-- Weekday-wise order analysis
+## 🧠 Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- Excel Dashboarding
+- Pivot Tables & Charts
+- Business Insights Generation
 
 ## 🛠️ Tools Used
 - Microsoft Excel
