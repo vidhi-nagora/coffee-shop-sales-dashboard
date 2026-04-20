@@ -26,4 +26,6 @@ This project presents an interactive Excel dashboard built on coffee shop sales 
 - Compared performance across store locations  
 - Observed customer ordering behavior across weekdays
 
+## Dashboard Preview
+- This dashboard helps identify peak hours, top products, and store performance to support data-driven decisions.
 ![Dashboard Preview](https://github.com/vidhi-nagora/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Shop%20Sales%20Analysis.png)
