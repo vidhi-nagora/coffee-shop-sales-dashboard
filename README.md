@@ -5,6 +5,10 @@
 ## 📌 Project Overview
 This project presents an interactive Excel dashboard built on coffee shop sales data. It focuses on analyzing key metrics and uncovering trends to support better business understanding.
 
+## 📊 Dataset
+- Coffee shop sales dataset used for analysis
+- Includes order details, product categories, and sales metrics
+
 ## 🧠 Skills Demonstrated
 - Data Cleaning
 - Data Analysis
