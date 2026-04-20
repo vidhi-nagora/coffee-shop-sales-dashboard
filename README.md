@@ -1,7 +1,5 @@
 # Coffee Shop Sales Analysis (Excel)
 
-![Dashboard Preview](Coffee Shop Sales Analysis.png)
-
 ## 📌 Project Overview
 This project presents an interactive Excel dashboard built on coffee shop sales data. It focuses on analyzing key metrics and uncovering trends to support better business understanding.
 
